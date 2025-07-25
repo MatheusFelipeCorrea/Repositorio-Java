@@ -19,6 +19,15 @@ Soluções de Problemas Práticos: Projetos que resolvem problemas do dia a dia 
 
 ## 📫 Contato
 
-- Email: [matheusfelipecorreasilva@hotmail.com](mailto:matheusfelipecorreasilva@hotmail.com)
-- LinkedIn: [Matheus Felipe](https://www.linkedin.com/in/matheus-felipe-correa-29b262265/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/matheus-felipe-correa-29b262265" target="_blank" style="text-decoration: none; outline: none; border: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://wa.me/5531971677934" target="_blank" style="text-decoration: none; outline: none; border: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
+  </a>
+  <a href="mailto:matheusfelipecorreasilva@hotmail.com" style="text-decoration: none; outline: none; border: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo" />
+  </a>
+</div>
 
